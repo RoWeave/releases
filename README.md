@@ -14,6 +14,7 @@ the installer is not signed by Microsoft yet. The Mac app is signed and notarize
 RoWeave tells you when a new version is out. You can turn the check off in Settings.
 
 This repository holds the installers and update files of the last three versions.
+
 Website: [roweave.app](https://roweave.app)
 
 The source code is not public. Questions and bug reports: support@roweave.app
